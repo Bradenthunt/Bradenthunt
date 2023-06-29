@@ -21,7 +21,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Tesla Dashboard</h3>
         <br />
         <a target="_blank" href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60">
-            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/649d55ca-fb18-416b-a42d-c9d17832c638"/>
+            <img width="1440" alt="Screenshot 2023-06-29 at 3 27 04 PM" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
         </a>
         <br />
         <p align="center">
