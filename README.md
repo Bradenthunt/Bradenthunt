@@ -21,7 +21,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Tesla Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/CityHopper">
-            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/649d55ca-fb18-416b-a42d-c9d17832c638"/>
+            <iframe src="https://www.loom.com/embed/e6827f6f7c1649f8af9759f17114cd60?hide_owner=true&amp;hide_share=true&amp;hide_title=true&amp;hideEmbedTopBar=true" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
         </a>
         <br />
         <p align="center">
