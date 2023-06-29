@@ -20,7 +20,9 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <td width="50%" valign="top">
       <h3 align="center">Tesla Dashboard</h3>
         <br />
-            <video src="https://cdn.loom.com/sessions/thumbnails/e6827f6f7c1649f8af9759f17114cd60-00001.mp4" playsinline="" loop="" autoplay="" class="css-1dd3ex7"></video>
+        <a target="_blank" href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60">
+            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/649d55ca-fb18-416b-a42d-c9d17832c638"/>
+        </a>
         <br />
         <p align="center">
           
