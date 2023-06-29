@@ -18,7 +18,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CityHopper</h3>
+      <h3 align="center">Tesla Dashboard</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/CityHopper">
             <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/649d55ca-fb18-416b-a42d-c9d17832c638"/>
@@ -26,14 +26,11 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/CityHopper">
+  <a href="https://github.com/Bradenthunt/V-School/tree/master/cc-tesla">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://t3app-pink.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>NextJS/TypeScript/TailwindCSS/tRPC/Prisma/Clerk</strong> - CityHopper is an App that uses the AirBNB API to find the cheapest properties in your destination city</p>
+        <p><strong>JavaScript/React/API</strong> - Tesla Dashboard is an App that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CreativePay</h3>
