@@ -36,7 +36,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">CreativePay</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/creativepay">
-            <img src="https://github.com/jarrodmjack/jarrodmjack/assets/99290888/5f8aac8d-47c8-42dd-bf4d-41fb197ba3d6" alt="notes"/>
+            <img src="" alt="notes"/>
         </a>
         <br />
         <p align="center">
