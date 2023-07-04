@@ -101,7 +101,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
 <hr/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bradenthunt&theme=hacker&exclude_days=Sun%2CSat" alt="bradenthunt" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bradenthunt&theme=dark&exclude_days=Sun%2CSat" alt="bradenthunt" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradenthunt&theme=dark&layout=donut" alt="bradenthunt" /></p>
 
 <br>
