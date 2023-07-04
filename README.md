@@ -60,7 +60,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Hunt Fitness Tracker</h3>
         <br />
         <a target="_blank" href="https://github.com/Bradenthunt/V-School/tree/master/hft">
-            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
+		<img width="1440" alt="hft" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/78ae324e-001e-408e-8b2c-b808c63c8e13" alt="hunt fitness tracker">
         </a>
         <br />
         <p align="center">
