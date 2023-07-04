@@ -52,7 +52,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
   </a>
     <br />
       </p>
-        <p><strong>React/Node.js/Express/JWT Auth/MongoDB/Tailwind/DaisyUI</strong> - A full stack web application to track employee time punches and automatically calculate payouts for pay periods</p>
+        <p><strong>React/Node.js/Express/MongoDB/Mongoose</strong> - A full stack app that allows users to create a budget and receive helpful budgeting tips by simply adding their expenses and income.</p>
     </td>
   </tr>
   <tr>
