@@ -20,7 +20,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <td width="50%" valign="top">
       <h3 align="center">Tesla Dashboard</h3>
         <br />
-        <a target="_blank" href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/">
+        <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/"target="_blank">
             <img width="1440" alt="Tesla Dashboard" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
         </a>
         <br />
