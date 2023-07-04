@@ -38,16 +38,16 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <td width="50%" valign="top">
       <h3 align="center">Control Your Finances</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/creativepay">
-            <img src="" alt="notes"/>
+        <a target="_blank" href="https://control-your-finances.vercel.app/">
+            <img width="1435" alt="control-your-finances" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/creativepay" target="_blank">
+  <a href="https://github.com/Bradenthunt/V-School/tree/master/control-your-finances" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://github.com/jarrodmjack/creativepay" target="_blank">
+  <a href="https://control-your-finances.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
     <br />
