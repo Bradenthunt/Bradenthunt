@@ -103,20 +103,12 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bradenthunt&theme=dark&exclude_days=Sun%2CSat" alt="bradenthunt" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradenthunt&theme=dark&layout=donut" alt="bradenthunt" /></p>
-
-<br>
-<hr/>
-
-
-## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jarrodmjack"><img
-      src="https://github-profile-trophy.vercel.app/?username=bradenthunt&row=1&column=3&theme=dark" alt="jarrodmjack" /></a>  </p>
    
 
 <br>
 <hr/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:bradenthunt@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/bradenthunt"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
