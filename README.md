@@ -33,7 +33,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=loom&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/API</strong> - Tesla Dashboard is an App that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
+        <p><strong>JavaScript/React/API</strong> - A front end app that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Control Your Finances</h3>
@@ -57,22 +57,22 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Clearcoin Crypto</h3>
+      <h3 align="center">Hunt Fitness Tracker</h3>
         <br />
-        <a target="_blank" href="https://github.com/jarrodmjack/Clearcoin-mkII">
+        <a target="_blank" href="https://github.com/Bradenthunt/V-School/tree/master/hft">
             <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jarrodmjack/Clearcoin-mkII">
+  <a href="https://github.com/Bradenthunt/V-School/tree/master/hft" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://clearcoinmkii.herokuapp.com/" target="_blank">
+  <a href="https://huntfitnesstracker.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
+        <p><strong>JavaScript/React/Node.js/Mongoose/MongoDB/Express/Node/JWT</strong> - A full stack app that allows users to log exercises and complete workouts while also allowing users to see workouts completed by all users and comment on them.</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Coming soon..</h3>
