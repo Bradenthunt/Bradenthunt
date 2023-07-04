@@ -30,7 +30,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=loom&logo-color=white"/>
   </a>
       </p>
         <p><strong>JavaScript/React/API</strong> - Tesla Dashboard is an App that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
