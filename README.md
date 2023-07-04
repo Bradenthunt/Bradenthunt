@@ -36,7 +36,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
         <p><strong>JavaScript/React/API</strong> - Tesla Dashboard is an App that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">CONTROL YOUR FINANCES</h3>
+      <h3 align="center">Control Your Finances</h3>
         <br />
         <a target="_blank" href="https://github.com/jarrodmjack/creativepay">
             <img src="" alt="notes"/>
