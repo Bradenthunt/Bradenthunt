@@ -74,14 +74,14 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       </p>
         <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
-<!--    <td width="50%" valign="top">
-      <h3 align="center">*Title here*</h3>
+   <td width="50%" valign="top">
+      <h3 align="center">Coming soon..</h3>
         <br />
       <a target="_blank" href="">
-            <img src=" width="100%"  alt="aquarium"/>
+            <img src=" width="100%"  alt=""/>
         </a>
         <br />
-        <p align="center">
+<!--         <p align="center">
           
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -90,8 +90,8 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
-    </td>  -->
+        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p> -->
+    </td> 
   </tr>
 	
 </table>
