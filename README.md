@@ -74,11 +74,11 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       </p>
         <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
     </td>
-   <td width="50%" valign="top">
-      <h3 align="center">Aqua Advisor</h3>
+<!--    <td width="50%" valign="top">
+      <h3 align="center">*Title here*</h3>
         <br />
-      <a target="_blank" href="https://aquaadvisor.netlify.app/">
-            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
+      <a target="_blank" href="">
+            <img src=" width="100%"  alt="aquarium"/>
         </a>
         <br />
         <p align="center">
@@ -91,7 +91,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
   </a>
       </p>
         <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
-    </td> 
+    </td>  -->
   </tr>
 	
 </table>
