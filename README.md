@@ -39,7 +39,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Control Your Finances</h3>
         <br />
         <a target="_blank" href="https://control-your-finances.vercel.app/">
-            <img width="100%" alt="control-your-finances" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
+            <img width="100%" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
         </a>
         <br />
         <p align="center">
