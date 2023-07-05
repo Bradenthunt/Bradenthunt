@@ -110,7 +110,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
 
 ## 🤝 Let's Connect
 <p align="center">
-	[<img title="Email" alt="email" width="40px" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/d38219d8-4cbb-4e4e-aafe-bb5603bd5fc6.png">](https://bradenthunt@gmail.com)
+	[Email](https://github.com/Bradenthunt/Bradenthunt/assets/96035031/d38219d8-4cbb-4e4e-aafe-bb5603bd5fc6.png)
 	<a href="#">Github<img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/b6ef5741-0ec1-40dc-bfda-100771c27fb0" title='GitHub' alt="GitHub" width="40px" /></a>
 	<a href="https://www.linkedin.com/in/bradenthunt/">LinkedIn<img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/0c5c1a8a-cbbb-4713-8eb8-1205d64f6f6a" title='LinkedIn' alt="LinkedIn" width="40px" /></a>
 	<a href="https://bradenthunt.com">Portfolio<img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/214e4f77-ec11-4a95-a975-aeca774b6560" title='Portfolio Website' alt="portfolio" width="40px" /></a>
