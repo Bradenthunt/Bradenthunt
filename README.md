@@ -21,7 +21,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Tesla Dashboard</h3>
         <br />
         <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
-            <img width="100%" alt="Tesla Dashboard" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
+            <img alt="Tesla Dashboard" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
         </a>
         <br />
         <p align="center">
@@ -39,7 +39,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Control Your Finances</h3>
         <br />
         <a target="_blank" href="https://control-your-finances.vercel.app/">
-            <img width="100%" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
+            <img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Hunt Fitness Tracker</h3>
         <br />
         <a target="_blank" href="https://github.com/Bradenthunt/V-School/tree/master/hft">
-		<img width="100%" alt="hunt fitness tracker" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/78ae324e-001e-408e-8b2c-b808c63c8e13">
+		<img alt="hunt fitness tracker" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/78ae324e-001e-408e-8b2c-b808c63c8e13">
         </a>
         <br />
         <p align="center">
@@ -78,7 +78,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Coming soon..</h3>
         <br />
       <a target="_blank" href="">
-            <img src=" width="100%"  alt=""/>
+            <img src="  alt=""/>
         </a>
         <br />
 <!--         <p align="center">
