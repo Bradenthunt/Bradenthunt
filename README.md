@@ -78,7 +78,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
       <h3 align="center">Coming soon..</h3>
         <br />
       <a target="_blank" href="">
-            <img src="  alt=""/>
+            <img src=""  alt=""/>
         </a>
         <br />
 <!--         <p align="center">
