@@ -111,7 +111,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about Front-En
 ## 🤝 Let's Connect
 <p align="center">
 	<a href="mailto:bradenthunt@gmail.com">
-		<img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/d38219d8-4cbb-4e4e-aafe-bb5603bd5fc6" alt="email" />
+		<img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/d38219d8-4cbb-4e4e-aafe-bb5603bd5fc6" alt="email" width="40px" />
 
 	</a>
 	<a href="https://github.com/bradenthunt"><img src="https://icons8.com/icon/62856/github" title='GitHub' alt="GitHub"/></a>
