@@ -78,7 +78,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
       <h3 align="center">Sur+</h3>
         <br />
       <a target="_blank" href="suplus.surge.sh">
-            <img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/2f5c9998-ec54-4cce-80fe-104a117ea269" alt="Surplus"/>
+            <img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/fdc71e5c-85cb-48ce-aa81-08026b71f0f3" alt="Surplus"/>
         </a>
         <br />
         <p align="center">
