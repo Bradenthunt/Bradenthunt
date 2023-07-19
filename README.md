@@ -75,22 +75,22 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
         <p><strong>JavaScript/React/Node.js/Mongoose/MongoDB/Express/Node/JWT</strong> - A full stack app that allows users to log exercises and complete workouts while also allowing users to see workouts completed by all users and comment on them.</p>
     </td>
    <td width="50%" valign="top">
-      <h3 align="center">Coming soon..</h3>
+      <h3 align="center">Sur+</h3>
         <br />
-      <a target="_blank" href="">
-            <img src=""  alt=""/>
+      <a target="_blank" href="suplus.surge.sh">
+            <img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/cb03f9f4-76f9-40d5-98f0-a097a36e66cd" alt="Surplus"/>
         </a>
         <br />
-<!--         <p align="center">
+        <p align="center">
           
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://aquaadvisor.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://surplus.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=html&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p> -->
+        <p><strong>HTML/CSS/JavaScript/Surge</strong> - A simple web app to calculate surplus money for a budget</p>
     </td> 
   </tr>
 	
