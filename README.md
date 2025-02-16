@@ -36,10 +36,10 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
         <p><strong>JavaScript/React/API</strong> - A front-end app that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Control Your Finances</h3>
+      <h3 align="center">GunKustom</h3>
         <br />
-        <a target="_blank" href="https://control-your-finances.vercel.app/">
-            <img src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/a6c98b2d-242a-4e1d-bc80-715dee72f68d" alt="control your finances">
+        <a target="_blank" href="https://gunkustom.com/">
+            <img width="1440" alt="GunKustom site" src="https://github.com/user-attachments/assets/d2862a44-e90c-4cf7-bd97-08488b58b38a" />
         </a>
         <br />
         <p align="center">
