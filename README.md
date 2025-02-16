@@ -43,16 +43,13 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/Bradenthunt/V-School/tree/master/control-your-finances" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://control-your-finances.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+           
+  <a href="https://gunkustom.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9f694938-0d0e-479b-949c-9a436005a7c9"/>
   </a>
     <br />
       </p>
-        <p><strong>React/Node.js/Express/MongoDB/Mongoose</strong> - A full stack app that allows users to create a budget and receive helpful budgeting tips by simply adding their expenses and income.</p>
+        <p><strong>React/Typescript/Node.js</strong> - A full stack app that allows users to build firearms using a virtual builder and buy products to complete said builds.</p>
     </td>
   </tr>
   <tr>
