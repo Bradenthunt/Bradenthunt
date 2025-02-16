@@ -45,11 +45,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
         <p align="center">
            
   <a href="https://gunkustom.com/" target="_blank">
-	  <div align="center">
-		  <img src="https://github.com/user-attachments/assets/9f694938-0d0e-479b-949c-9a436005a7c9" alt="Gunkustom logo" width="25" height="25"/>
-		  <br>
-		 <p>WEBSITE</p> 
-	  </div>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
     <br />
       </p>
