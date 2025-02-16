@@ -45,11 +45,11 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
         <p align="center">
            
   <a href="https://gunkustom.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9f694938-0d0e-479b-949c-9a436005a7c9"/>
+    <img src="https://github.com/user-attachments/assets/9f694938-0d0e-479b-949c-9a436005a7c9" alt="Gunkustom logo" width="10" height="10"/><p>| WEBSITE</p>
   </a>
     <br />
       </p>
-        <p><strong>React/Typescript/Node.js</strong> - A full stack app that allows users to build firearms using a virtual builder and buy products to complete said builds.</p>
+        <p><strong>React/Typescript/NEXTjs</strong> - A full stack app that allows users to build firearms using a virtual builder and buy products to complete said builds.</p>
     </td>
   </tr>
   <tr>
