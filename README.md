@@ -17,23 +17,23 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
 
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Tesla Dashboard</h3>
+	  <td width="50%" valign="top">
+      <h3 align="center">Wasatch Strength & Ability</h3>
         <br />
-        <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
-            <img alt="Tesla Dashboard" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
+        <a target="_blank" href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness">
+		<img width="1440" alt="Wasatch Strength & Ability site" src="https://github.com/user-attachments/assets/36053ba3-37d0-42df-8547-006f2c4499f8" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Bradenthunt/V-School/tree/master/cc-tesla" target="_blank">
+  <a href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=loom&logo-color=white"/>
+  <a href="https://bradenthunt.com/fitness/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/API</strong> - A front-end app that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
+        <p><strong>React/Typescript</strong> - A single-page app that outlines personal training services offered while showcasing videos, FAQs, and benefits of WSA.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">GunKustom</h3>
@@ -54,22 +54,22 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Wasatch Strength & Ability</h3>
+      <h3 align="center">Tesla Dashboard</h3>
         <br />
-        <a target="_blank" href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness">
-		<img width="1440" alt="Wasatch Strength & Ability site" src="https://github.com/user-attachments/assets/36053ba3-37d0-42df-8547-006f2c4499f8" />
+        <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
+            <img alt="Tesla Dashboard" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/5869ad53-a819-4100-8f6b-b8e47d30ff21" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness" target="_blank">
+  <a href="https://github.com/Bradenthunt/V-School/tree/master/cc-tesla" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://bradenthunt.com/fitness/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://www.loom.com/share/e6827f6f7c1649f8af9759f17114cd60/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=loom&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React/Typescript</strong> - A single-page app that outlines personal training services offered while showcasing videos, FAQs, and benefits of WSA.</p>
+        <p><strong>JavaScript/React/API</strong> - A front-end app that allows users to showcase 8 unique data points and control 6 unique functions of their Tesla.</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Sur+</h3>
