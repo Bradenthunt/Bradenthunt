@@ -20,7 +20,7 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
 	  <td width="50%" valign="top">
       <h3 align="center">Wasatch Strength & Ability</h3>
         <br />
-        <a target="_blank" href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness">
+        <a target="_blank" href="https://bradenthunt.com/fitness/">
 		<img width="1440" alt="Wasatch Strength & Ability site" src="https://github.com/user-attachments/assets/36053ba3-37d0-42df-8547-006f2c4499f8" />
         </a>
         <br />
