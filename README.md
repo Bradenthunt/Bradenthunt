@@ -54,22 +54,22 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Hunt Fitness Tracker</h3>
+      <h3 align="center">Wasatch Strength & Ability</h3>
         <br />
-        <a target="_blank" href="https://github.com/Bradenthunt/V-School/tree/master/hft">
-		<img alt="hunt fitness tracker" src="https://github.com/Bradenthunt/Bradenthunt/assets/96035031/78ae324e-001e-408e-8b2c-b808c63c8e13">
+        <a target="_blank" href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness">
+		<img width="1440" alt="Wasatch Strength & Ability site" src="https://github.com/user-attachments/assets/36053ba3-37d0-42df-8547-006f2c4499f8" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Bradenthunt/V-School/tree/master/hft" target="_blank">
+  <a href="https://github.com/Bradenthunt/portfolio2/tree/main/src/app/fitness" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://huntfitnesstracker.vercel.app/" target="_blank">
+  <a href="https://bradenthunt.com/fitness/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/Node.js/Mongoose/MongoDB/Express/Node/JWT</strong> - A full stack app that allows users to log exercises and complete workouts while also allowing users to see workouts completed by all users and comment on them.</p>
+        <p><strong>React/Typescript</strong> - A single-page app that outlines personal training services offered while showcasing videos, FAQs, and benefits of WSA.</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Sur+</h3>
