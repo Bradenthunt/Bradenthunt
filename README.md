@@ -97,13 +97,6 @@ I'm a Full-Stack Developer based in Utah 🏔️. I am passionate about front-en
 
 <hr/>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradenthunt&theme=dark&layout=donut" alt="bradenthunt" /></p>
-   
-
-<br>
-<hr/>
-
 ## 🤝 Let's Connect
 <p align="center">
 	<a href="mailto:bradenthunt@gmail.com">Email</a> |
